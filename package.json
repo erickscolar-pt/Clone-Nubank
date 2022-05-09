@@ -15,7 +15,16 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-qrcode": "^0.2.7",
+    "react-native-qrcode-svg": "^6.1.2",
+    "react-native-svg": "12.1.1",
+    "react-native-web": "0.17.1",
+    "react-navigation": "^4.4.4",
+    "react-vector-icons": "^0.0.1",
+    "reactotron-react-native": "^5.0.1",
+    "styled-component": "^2.8.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
